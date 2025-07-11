@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shubham Jadhav - Java Developer Resume</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans leading-relaxed p-6">
+  <div class="max-w-4xl mx-auto bg-white shadow-xl rounded-2xl p-10">
+    <header class="border-b pb-4 mb-6">
+      <h1 class="text-4xl font-bold text-blue-800">Shubham Jadhav</h1>
+      <p class="mt-2 text-sm text-gray-600">
+        📞 +91 7276453680 | 📍 Pune, Maharashtra | ✉️ shubhamkjadhav19@gmail.com
+      </p>
+    </header>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Summary</h2>
+      <p>Software Developer with 3.8 years of hands-on experience in building scalable Java-based applications using Spring Boot, RESTful APIs, Angular, and Microservices. Proven expertise across banking and hospitality domains, including Treasury, CSGL, ALM, and IN-Gauge. Skilled in CI/CD, API integration, and backend optimization. AWS and Docker certified with a passion for automation and system resilience.</p>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Technical Skills</h2>
+      <ul class="list-disc pl-6 space-y-1">
+        <li><strong>Languages:</strong> Java 8+, J2EE, SQL, PL/SQL, JavaScript, HTML, CSS</li>
+        <li><strong>Web:</strong> REST APIs, Microservices, XML, JSON</li>
+        <li><strong>Frameworks:</strong> Spring Boot, Spring MVC, JSP, JDBC</li>
+        <li><strong>Databases:</strong> Oracle, MySQL</li>
+        <li><strong>Tools:</strong> IntelliJ, Jenkins, Docker, SonarQube, Postman, SQL Developer, Cursor AI</li>
+        <li><strong>Version Control:</strong> Git, SVN, SourceTree</li>
+        <li><strong>Testing:</strong> Selenium, Jest</li>
+        <li><strong>Servers:</strong> Apache Tomcat, JBOSS, WebSphere</li>
+      </ul>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Professional Experience</h2>
+
+      <div class="mb-4">
+        <h3 class="font-bold text-lg">Java Developer – Frontline Performance Group <span class="text-sm font-normal text-gray-600">(Feb 2025 – Present)</span></h3>
+        <ul class="list-disc pl-6 space-y-1">
+          <li>Developed interactive e-learning and analytics tools for employee engagement.</li>
+          <li>Worked with Hilton, Hyatt, and Marriott for custom solution delivery.</li>
+          <li>Designed scalable microservices and implemented API Gateway pattern.</li>
+          <li>Integrated third-party APIs and optimized DB operations using Cursor.</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="font-bold text-lg">Java Developer – Intellect Design Arena <span class="text-sm font-normal text-gray-600">(Aug 2021 – Sep 2024)</span></h3>
+        <ul class="list-disc pl-6 space-y-1">
+          <li>Led ALM & CSGL module design for digital banking suite.</li>
+          <li>Collaborated with Kotak Bank on secure account management tools.</li>
+          <li>Built RESTful microservices with Spring Boot and automated CI/CD via Jenkins and Docker.</li>
+          <li>Used Angular and Oracle DB to deliver full-stack banking solutions.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Projects</h2>
+      <div>
+        <h3 class="font-bold">Customer Account Management System</h3>
+        <ul class="list-disc pl-6 space-y-1">
+          <li>Built using Spring Boot, REST APIs, JPA, MySQL with JWT/OAuth 2.0 security.</li>
+          <li>Implemented CI/CD using Docker and Jenkins.</li>
+          <li>Improved performance via Cursor and scalable architecture.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Education</h2>
+      <p><strong>B.Tech – Computer Science & Engineering</strong> – 2021</p>
+      <p><strong>Diploma – Computer Science</strong> – 2018</p>
+    </section>
+
+    <section class="mb-6">
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Certifications</h2>
+      <ul class="list-disc pl-6 space-y-1">
+        <li>AWS Certified Developer – 2024 – AWS</li>
+        <li><a href="https://www.mygreatlearning.com/certificate/WZEQLJGY" class="text-blue-600 underline" target="_blank">Great Learning Certificate</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold text-blue-700 mb-2">Additional Information</h2>
+      <p>Available to relocate and open to remote opportunities. Passionate about continuous learning and emerging technologies.</p>
+    </section>
+  </div>
+</body>
+</html>
